@@ -1,5 +1,5 @@
 # ACW
-Resilient and Efficient Watermarking for LLM-Generated Codes
+Resilient Watermarking for LLM-Generated Codes
 
 **Appendix: Transformation Rules**
 
